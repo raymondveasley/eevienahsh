@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://seaboogux.patch.codes/sitemap.xml
